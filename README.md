@@ -1,1 +1,2 @@
-not empty file
+# zero day
+new read mee
